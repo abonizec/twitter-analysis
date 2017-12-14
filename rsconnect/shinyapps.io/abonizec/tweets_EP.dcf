@@ -1,0 +1,10 @@
+name: tweets_EP
+title: Analysis of the tweets published by EP and Izigloo
+username:
+account: abonizec
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 248434
+bundleId: 1134381
+url: https://abonizec.shinyapps.io/tweets_EP/
+when: 1513245989.55492
